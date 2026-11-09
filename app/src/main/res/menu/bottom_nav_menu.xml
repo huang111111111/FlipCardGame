@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profile"
+        android:title="个人信息" />
+    <item
+        android:id="@+id/nav_game2"
+        android:title="2张牌游戏" />
+    <item
+        android:id="@+id/nav_game3"
+        android:title="3张牌游戏" />
+</menu>
